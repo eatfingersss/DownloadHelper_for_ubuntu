@@ -11,6 +11,7 @@ fish
 screenfetch
 apache2
 nginx
-mysql-server mysql-client
+mysql-server mysql-common mysql-client
 openssh-server openssh-server
 filezilla filezilla-locales
+
